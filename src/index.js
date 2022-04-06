@@ -59,7 +59,6 @@ export default class Button extends React.Component {
     raiseLevel: PropTypes.number,
     springRelease: PropTypes.bool,
     stretch: PropTypes.bool,
-    style: ViewPropTypes.style,
     textColor: PropTypes.string,
     textLineHeight: PropTypes.number,
     textSize: PropTypes.number,
